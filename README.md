@@ -1,16 +1,20 @@
-# flutterilkdeneme
+A structure similar to D&R's and Idefix mobile applications was used in the project.
+It is intended for users to add products to their carts and purchase the added products.
 
-A new Flutter project.
+Used Technologies
+-Flutter
+-Firebase
+-Python
 
-## Getting Started
+Added Features
 
-This project is a starting point for a Flutter application.
+-Banner
+-Search Bar 
+-Search for books by authors
+-Search for books by categories
+-A simple recommendation engine 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Recommendation Engine:
+It offers suggestions according to the votes made by the users. Made in Python.Item based collaborative filtering used . 
+see the google colab link :
+https://colab.research.google.com/drive/1E7HwRxPgf-ZuVSGWW0vyI-q0V4Yua7W5?usp=sharing
