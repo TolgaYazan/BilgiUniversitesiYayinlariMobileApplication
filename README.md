@@ -16,5 +16,5 @@ Added Features
 
 Recommendation Engine:
 It offers suggestions according to the votes made by the users. Made in Python.Item based collaborative filtering used . 
-see the google colab link :
+see the google colab link:
 https://colab.research.google.com/drive/1E7HwRxPgf-ZuVSGWW0vyI-q0V4Yua7W5?usp=sharing
